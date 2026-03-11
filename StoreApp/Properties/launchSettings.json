@@ -1,0 +1,32 @@
+﻿{
+    "$schema": "https://json.schemastore.org/launchsettings.json",
+    "profiles": {
+        "Lyulin": {
+            "commandName": "Project",
+            "dotnetRunMessages": true,
+            "launchBrowser": false,
+            "applicationUrl": "http://localhost:5155",
+            "environmentVariables": {
+                "ASPNETCORE_ENVIRONMENT": "Lyulin"
+            }
+        },
+        "Dianabad": {
+            "commandName": "Project",
+            "dotnetRunMessages": true,
+            "launchBrowser": false,
+            "applicationUrl": "http://localhost:5156",
+            "environmentVariables": {
+                "ASPNETCORE_ENVIRONMENT": "Dianabad"
+            }
+        },
+        "Bukston": {
+            "commandName": "Project",
+            "dotnetRunMessages": true,
+            "launchBrowser": false,
+            "applicationUrl": "http://localhost:5157",
+            "environmentVariables": {
+                "ASPNETCORE_ENVIRONMENT": "Bukston"
+            }
+        }
+    }
+}
